@@ -294,7 +294,7 @@ namespace _1._2字符串处理
             //}
             //string[] str2 = str1.Split(new char[] { '，', '。' }, StringSplitOptions.RemoveEmptyEntries);
             //Stopwatch watch = new Stopwatch();
-            ////笨拙方法
+            ////原始方法
             //watch.Start();
             //string str3 = string.Empty;//空字符串
             //for (int i = 0; i < str2.Length; i++)
@@ -426,7 +426,7 @@ namespace _1._2字符串处理
 
             #endregion
 
-            
+
 
             Console.ReadKey();
         }

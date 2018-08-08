@@ -1,0 +1,17 @@
+D:\专业\网络中心\项目-VS\基础示例\1.1入门\bin\Debug\1.1入门.exe.config
+D:\专业\网络中心\项目-VS\基础示例\1.1入门\bin\Debug\1.1入门.exe
+D:\专业\网络中心\项目-VS\基础示例\1.1入门\bin\Debug\1.1入门.pdb
+D:\专业\网络中心\项目-VS\基础示例\1.1入门\obj\Debug\1.1入门.exe
+D:\专业\网络中心\项目-VS\基础示例\1.1入门\obj\Debug\1.1入门.pdb
+D:\专业\网络中心\项目-VS\基础示例\1.1入门\obj\Debug\1.1入门.csprojResolveAssemblyReference.cache
+D:\专业\网络中心\项目-C#\基础示例\1.1入门\bin\Debug\1.1入门.exe.config
+D:\专业\网络中心\项目-C#\基础示例\1.1入门\obj\Debug\1.1入门.exe
+D:\专业\网络中心\项目-C#\基础示例\1.1入门\obj\Debug\1.1入门.pdb
+D:\专业\网络中心\项目-C#\基础示例\1.1入门\bin\Debug\1.1入门.exe
+D:\专业\网络中心\项目-C#\基础示例\1.1入门\bin\Debug\1.1入门.pdb
+D:\专业\网络中心\项目-C#\基础示例\1.1入门\obj\Debug\1.1入门.csprojResolveAssemblyReference.cache
+E:\冯时\项目-C#\基础示例\1.1入门\bin\Debug\1.1入门.exe.config
+E:\冯时\项目-C#\基础示例\1.1入门\obj\Debug\1.1入门.exe
+E:\冯时\项目-C#\基础示例\1.1入门\obj\Debug\1.1入门.pdb
+E:\冯时\项目-C#\基础示例\1.1入门\bin\Debug\1.1入门.exe
+E:\冯时\项目-C#\基础示例\1.1入门\bin\Debug\1.1入门.pdb

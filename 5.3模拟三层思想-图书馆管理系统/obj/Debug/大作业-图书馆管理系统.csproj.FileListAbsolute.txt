@@ -1,0 +1,11 @@
+D:\专业\网络中心\项目-C#\大作业-图书馆管理系统\大作业-图书馆管理系统\bin\Debug\大作业-图书馆管理系统.exe.config
+D:\专业\网络中心\项目-C#\大作业-图书馆管理系统\大作业-图书馆管理系统\bin\Debug\大作业-图书馆管理系统.exe
+D:\专业\网络中心\项目-C#\大作业-图书馆管理系统\大作业-图书馆管理系统\bin\Debug\大作业-图书馆管理系统.pdb
+D:\专业\网络中心\项目-C#\大作业-图书馆管理系统\大作业-图书馆管理系统\obj\Debug\LMS.Properties.Resources.resources
+D:\专业\网络中心\项目-C#\大作业-图书馆管理系统\大作业-图书馆管理系统\obj\Debug\大作业-图书馆管理系统.csproj.GenerateResource.Cache
+D:\专业\网络中心\项目-C#\大作业-图书馆管理系统\大作业-图书馆管理系统\obj\Debug\大作业-图书馆管理系统.exe
+D:\专业\网络中心\项目-C#\大作业-图书馆管理系统\大作业-图书馆管理系统\obj\Debug\大作业-图书馆管理系统.pdb
+D:\专业\网络中心\项目-C#\大作业-图书馆管理系统\大作业-图书馆管理系统\obj\Debug\LMS.UI.Login.resources
+D:\专业\网络中心\项目-C#\大作业-图书馆管理系统\大作业-图书馆管理系统\obj\Debug\LMS.UI.Register.resources
+D:\专业\网络中心\项目-C#\大作业-图书馆管理系统\大作业-图书馆管理系统\obj\Debug\LMS.UI.MainScreen.resources
+D:\专业\网络中心\项目-C#\大作业-图书馆管理系统\大作业-图书馆管理系统\obj\Debug\大作业-图书馆管理系统.csprojResolveAssemblyReference.cache

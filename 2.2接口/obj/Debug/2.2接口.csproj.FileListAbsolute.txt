@@ -1,0 +1,16 @@
+D:\专业\网络中心\项目-VS\基础示例\2.2接口\bin\Debug\2.2接口.exe.config
+D:\专业\网络中心\项目-VS\基础示例\2.2接口\bin\Debug\2.2接口.exe
+D:\专业\网络中心\项目-VS\基础示例\2.2接口\bin\Debug\2.2接口.pdb
+D:\专业\网络中心\项目-VS\基础示例\2.2接口\obj\Debug\2.2接口.exe
+D:\专业\网络中心\项目-VS\基础示例\2.2接口\obj\Debug\2.2接口.pdb
+D:\专业\网络中心\项目-C#\基础示例\2.2接口\bin\Debug\2.2接口.exe.config
+D:\专业\网络中心\项目-C#\基础示例\2.2接口\obj\Debug\2.2接口.exe
+D:\专业\网络中心\项目-C#\基础示例\2.2接口\obj\Debug\2.2接口.pdb
+D:\专业\网络中心\项目-C#\基础示例\2.2接口\bin\Debug\2.2接口.exe
+D:\专业\网络中心\项目-C#\基础示例\2.2接口\bin\Debug\2.2接口.pdb
+D:\专业\网络中心\项目-C#\基础示例\2.2接口\obj\Debug\2.2接口.csprojResolveAssemblyReference.cache
+E:\冯时\项目-C#\基础示例\2.2接口\bin\Debug\2.2接口.exe.config
+E:\冯时\项目-C#\基础示例\2.2接口\obj\Debug\2.2接口.exe
+E:\冯时\项目-C#\基础示例\2.2接口\obj\Debug\2.2接口.pdb
+E:\冯时\项目-C#\基础示例\2.2接口\bin\Debug\2.2接口.exe
+E:\冯时\项目-C#\基础示例\2.2接口\bin\Debug\2.2接口.pdb

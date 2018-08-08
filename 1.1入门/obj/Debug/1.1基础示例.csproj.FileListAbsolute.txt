@@ -1,0 +1,6 @@
+D:\专业\网络中心\项目-VS\基础示例\基础示例\bin\Debug\基础示例.exe.config
+D:\专业\网络中心\项目-VS\基础示例\基础示例\bin\Debug\基础示例.exe
+D:\专业\网络中心\项目-VS\基础示例\基础示例\bin\Debug\基础示例.pdb
+D:\专业\网络中心\项目-VS\基础示例\基础示例\obj\Debug\基础示例.exe
+D:\专业\网络中心\项目-VS\基础示例\基础示例\obj\Debug\基础示例.pdb
+D:\专业\网络中心\项目-VS\基础示例\基础示例\obj\Debug\1.1基础示例.csprojResolveAssemblyReference.cache

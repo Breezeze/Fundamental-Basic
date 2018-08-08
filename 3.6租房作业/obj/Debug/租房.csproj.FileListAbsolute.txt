@@ -1,0 +1,10 @@
+D:\专业\网络中心\项目-C#\作业\租房\bin\Debug\租房.exe.config
+D:\专业\网络中心\项目-C#\作业\租房\bin\Debug\租房.exe
+D:\专业\网络中心\项目-C#\作业\租房\bin\Debug\租房.pdb
+D:\专业\网络中心\项目-C#\作业\租房\obj\Debug\租房.Form1.resources
+D:\专业\网络中心\项目-C#\作业\租房\obj\Debug\租房.Properties.Resources.resources
+D:\专业\网络中心\项目-C#\作业\租房\obj\Debug\租房.csproj.GenerateResource.Cache
+D:\专业\网络中心\项目-C#\作业\租房\obj\Debug\租房.exe
+D:\专业\网络中心\项目-C#\作业\租房\obj\Debug\租房.pdb
+D:\专业\网络中心\项目-C#\作业\租房\obj\Debug\租房.ChooseDate.resources
+D:\专业\网络中心\项目-C#\作业\租房\obj\Debug\租房.csprojResolveAssemblyReference.cache

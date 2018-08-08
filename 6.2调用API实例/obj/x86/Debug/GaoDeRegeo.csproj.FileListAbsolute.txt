@@ -1,0 +1,26 @@
+D:\Documents\Visual Studio 2010\Projects\GaoDeRegeo\GaoDeRegeo\obj\x86\Debug\GaoDeRegeo.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\GaoDeRegeo\GaoDeRegeo\obj\x86\Debug\GaoDeRegeo.Form1.resources
+D:\Documents\Visual Studio 2010\Projects\GaoDeRegeo\GaoDeRegeo\obj\x86\Debug\GaoDeRegeo.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\GaoDeRegeo\GaoDeRegeo\obj\x86\Debug\GaoDeRegeo.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2010\Projects\GaoDeRegeo\GaoDeRegeo\bin\Debug\GaoDeRegeo.exe
+D:\Documents\Visual Studio 2010\Projects\GaoDeRegeo\GaoDeRegeo\bin\Debug\GaoDeRegeo.pdb
+D:\Documents\Visual Studio 2010\Projects\GaoDeRegeo\GaoDeRegeo\obj\x86\Debug\GaoDeRegeo.exe
+D:\Documents\Visual Studio 2010\Projects\GaoDeRegeo\GaoDeRegeo\obj\x86\Debug\GaoDeRegeo.pdb
+F:\2016\8月\C#调用高德地图api解析经纬度\GaoDeRegeo\GaoDeRegeo\obj\x86\Debug\GaoDeRegeo.exe
+F:\2016\8月\C#调用高德地图api解析经纬度\GaoDeRegeo\GaoDeRegeo\obj\x86\Debug\GaoDeRegeo.pdb
+F:\2016\8月\C#调用高德地图api解析经纬度\GaoDeRegeo\GaoDeRegeo\bin\Debug\GaoDeRegeo.exe
+F:\2016\8月\C#调用高德地图api解析经纬度\GaoDeRegeo\GaoDeRegeo\bin\Debug\GaoDeRegeo.pdb
+F:\2016\8月\C#调用高德地图api解析经纬度\GaoDeRegeo\GaoDeRegeo\obj\x86\Debug\GaoDeRegeo.csprojResolveAssemblyReference.cache
+F:\2016\8月\C#调用高德地图api解析经纬度\GaoDeRegeo\GaoDeRegeo\obj\x86\Debug\GaoDeRegeo.Form1.resources
+F:\2016\8月\C#调用高德地图api解析经纬度\GaoDeRegeo\GaoDeRegeo\obj\x86\Debug\GaoDeRegeo.Properties.Resources.resources
+F:\2016\8月\C#调用高德地图api解析经纬度\GaoDeRegeo\GaoDeRegeo\obj\x86\Debug\GaoDeRegeo.csproj.GenerateResource.Cache
+C:\Users\我想要风一样的速度\Desktop\GaoDeRegeo\obj\x86\Debug\GaoDeRegeo.exe
+C:\Users\我想要风一样的速度\Desktop\GaoDeRegeo\obj\x86\Debug\GaoDeRegeo.pdb
+C:\Users\我想要风一样的速度\Desktop\GaoDeRegeo\bin\Debug\GaoDeRegeo.exe
+C:\Users\我想要风一样的速度\Desktop\GaoDeRegeo\bin\Debug\GaoDeRegeo.pdb
+C:\Users\我想要风一样的速度\Desktop\GaoDeRegeo\obj\x86\Debug\GaoDeRegeo.csprojResolveAssemblyReference.cache
+C:\Users\我想要风一样的速度\Desktop\GaoDeRegeo\obj\x86\Debug\GaoDeRegeo.Form1.resources
+C:\Users\我想要风一样的速度\Desktop\GaoDeRegeo\obj\x86\Debug\GaoDeRegeo.Properties.Resources.resources
+C:\Users\我想要风一样的速度\Desktop\GaoDeRegeo\obj\x86\Debug\GaoDeRegeo.csproj.GenerateResource.Cache
+D:\专业\网络中心\项目-C#\基础示例\6.2调用API实例\obj\x86\Debug\GaoDeRegeo.exe
+D:\专业\网络中心\项目-C#\基础示例\6.2调用API实例\obj\x86\Debug\GaoDeRegeo.pdb

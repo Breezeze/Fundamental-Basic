@@ -1,0 +1,8 @@
+D:\专业\网络中心\项目-C#\基础示例\6.2调用API实例\obj\x86\Debug\GaoDeRegeo.exe
+D:\专业\网络中心\项目-C#\基础示例\6.2调用API实例\obj\x86\Debug\GaoDeRegeo.pdb
+D:\专业\网络中心\项目-C#\基础示例\6.2调用API实例\bin\Debug\GaoDeRegeo.exe
+D:\专业\网络中心\项目-C#\基础示例\6.2调用API实例\bin\Debug\GaoDeRegeo.pdb
+D:\专业\网络中心\项目-C#\基础示例\6.2调用API实例\obj\x86\Debug\6.2调用API实例.csprojResolveAssemblyReference.cache
+D:\专业\网络中心\项目-C#\基础示例\6.2调用API实例\obj\x86\Debug\GaoDeRegeo.Form1.resources
+D:\专业\网络中心\项目-C#\基础示例\6.2调用API实例\obj\x86\Debug\GaoDeRegeo.Properties.Resources.resources
+D:\专业\网络中心\项目-C#\基础示例\6.2调用API实例\obj\x86\Debug\6.2调用API实例.csproj.GenerateResource.Cache

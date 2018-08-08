@@ -1,0 +1,16 @@
+D:\专业\网络中心\项目-VS\基础示例\2.1第一阶段\bin\Debug\2.1第一阶段.exe.config
+D:\专业\网络中心\项目-VS\基础示例\2.1第一阶段\bin\Debug\2.1第一阶段.exe
+D:\专业\网络中心\项目-VS\基础示例\2.1第一阶段\bin\Debug\2.1第一阶段.pdb
+D:\专业\网络中心\项目-VS\基础示例\2.1第一阶段\obj\Debug\2.1第一阶段.exe
+D:\专业\网络中心\项目-VS\基础示例\2.1第一阶段\obj\Debug\2.1第一阶段.pdb
+E:\冯时\项目-C#\基础示例\2.1第一阶段\bin\Debug\2.1第一阶段.exe.config
+E:\冯时\项目-C#\基础示例\2.1第一阶段\bin\Debug\2.1第一阶段.exe
+E:\冯时\项目-C#\基础示例\2.1第一阶段\bin\Debug\2.1第一阶段.pdb
+E:\冯时\项目-C#\基础示例\2.1第一阶段\obj\Debug\2.1第一阶段.exe
+E:\冯时\项目-C#\基础示例\2.1第一阶段\obj\Debug\2.1第一阶段.pdb
+D:\专业\网络中心\项目-C#\基础示例\2.1第一阶段\bin\Debug\2.1第一阶段.exe.config
+D:\专业\网络中心\项目-C#\基础示例\2.1第一阶段\obj\Debug\2.1第一阶段.exe
+D:\专业\网络中心\项目-C#\基础示例\2.1第一阶段\obj\Debug\2.1第一阶段.pdb
+D:\专业\网络中心\项目-C#\基础示例\2.1第一阶段\bin\Debug\2.1第一阶段.exe
+D:\专业\网络中心\项目-C#\基础示例\2.1第一阶段\bin\Debug\2.1第一阶段.pdb
+D:\专业\网络中心\项目-C#\基础示例\2.1第一阶段\obj\Debug\2.1第一阶段.csprojResolveAssemblyReference.cache

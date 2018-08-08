@@ -1,0 +1,8 @@
+E:\冯时\项目-C#\基础示例\5.1利用SQLHelper实现用户登录\bin\Debug\01.利用SQLHelper实现用户登录.exe.config
+E:\冯时\项目-C#\基础示例\5.1利用SQLHelper实现用户登录\obj\Debug\01.利用SQLHelper实现用户登录.exe
+E:\冯时\项目-C#\基础示例\5.1利用SQLHelper实现用户登录\obj\Debug\01.利用SQLHelper实现用户登录.pdb
+E:\冯时\项目-C#\基础示例\5.1利用SQLHelper实现用户登录\bin\Debug\01.利用SQLHelper实现用户登录.exe
+E:\冯时\项目-C#\基础示例\5.1利用SQLHelper实现用户登录\bin\Debug\01.利用SQLHelper实现用户登录.pdb
+E:\冯时\项目-C#\基础示例\5.1利用SQLHelper实现用户登录\obj\Debug\_01.利用SQLHelper实现用户登录.Form1.resources
+E:\冯时\项目-C#\基础示例\5.1利用SQLHelper实现用户登录\obj\Debug\_01.利用SQLHelper实现用户登录.Properties.Resources.resources
+E:\冯时\项目-C#\基础示例\5.1利用SQLHelper实现用户登录\obj\Debug\5.1利用SQLHelper实现用户登录.csproj.GenerateResource.Cache

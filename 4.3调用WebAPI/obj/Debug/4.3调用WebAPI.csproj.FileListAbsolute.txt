@@ -1,0 +1,5 @@
+E:\冯时\项目-C#\基础示例\4.3调用WebAPI\bin\Debug\4.3调用WebAPI.exe.config
+E:\冯时\项目-C#\基础示例\4.3调用WebAPI\bin\Debug\4.3调用WebAPI.exe
+E:\冯时\项目-C#\基础示例\4.3调用WebAPI\bin\Debug\4.3调用WebAPI.pdb
+E:\冯时\项目-C#\基础示例\4.3调用WebAPI\obj\Debug\4.3调用WebAPI.exe
+E:\冯时\项目-C#\基础示例\4.3调用WebAPI\obj\Debug\4.3调用WebAPI.pdb
